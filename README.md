@@ -1,2 +1,2 @@
 #Ecommerce-
-it's a sample ecommerce website using PHP ,JS , CSS and HTML
+it's an ecommerce website using PHP ,JS , CSS and HTML
